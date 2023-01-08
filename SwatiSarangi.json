@@ -1,0 +1,36 @@
+{
+  "name": "Swati Sarangi",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Electrical Engineer passionate about **Coding**. All forms of art like music,painting,literature and dance interest me",
+  "links":[
+    {
+    "name":"GitHub",
+    "url":"https://github.com/Swati799",
+    },
+     {
+    "name":"Twitter",
+    "url":"https://twitter.com/SwatiSarangi10",
+    },
+    {
+    "name":"LinkedIn",
+    "url":"https://www.linkedin.com/in/swatisarangi/",
+    },
+    {
+    "name":"YouTube",
+    "url":"https://www.youtube.com/@aroundtheglobeSwati",
+    },
+    {
+    "name":"Personal Blog",
+    "url":"https://creative-constellation.blogspot.com/",
+    },
+    
+  {
+    "name":"Technical Blog-Hashnode",
+    "url":"https://codingstars.hashnode.dev/",
+  }
+  
+  
+  
+  ]
+}
